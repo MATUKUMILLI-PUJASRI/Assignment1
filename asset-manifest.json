@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MATUKUMILLI-PUJASRI/Assignment1.git/static/css/main.2b4369e5.css",
-    "main.js": "/MATUKUMILLI-PUJASRI/Assignment1.git/static/js/main.15c9cad0.js",
-    "static/js/787.001e509f.chunk.js": "/MATUKUMILLI-PUJASRI/Assignment1.git/static/js/787.001e509f.chunk.js",
-    "static/media/lizard.jpg": "/MATUKUMILLI-PUJASRI/Assignment1.git/static/media/lizard.cd6cd7dce9d0335071bc.jpg",
-    "index.html": "/MATUKUMILLI-PUJASRI/Assignment1.git/index.html",
-    "main.2b4369e5.css.map": "/MATUKUMILLI-PUJASRI/Assignment1.git/static/css/main.2b4369e5.css.map",
-    "main.15c9cad0.js.map": "/MATUKUMILLI-PUJASRI/Assignment1.git/static/js/main.15c9cad0.js.map",
-    "787.001e509f.chunk.js.map": "/MATUKUMILLI-PUJASRI/Assignment1.git/static/js/787.001e509f.chunk.js.map"
+    "main.css": "/Assignment1/static/css/main.2b4369e5.css",
+    "main.js": "/Assignment1/static/js/main.d6b35fe3.js",
+    "static/js/787.001e509f.chunk.js": "/Assignment1/static/js/787.001e509f.chunk.js",
+    "static/media/lizard.jpg": "/Assignment1/static/media/lizard.cd6cd7dce9d0335071bc.jpg",
+    "index.html": "/Assignment1/index.html",
+    "main.2b4369e5.css.map": "/Assignment1/static/css/main.2b4369e5.css.map",
+    "main.d6b35fe3.js.map": "/Assignment1/static/js/main.d6b35fe3.js.map",
+    "787.001e509f.chunk.js.map": "/Assignment1/static/js/787.001e509f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b4369e5.css",
-    "static/js/main.15c9cad0.js"
+    "static/js/main.d6b35fe3.js"
   ]
 }
